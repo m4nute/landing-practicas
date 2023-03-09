@@ -9,6 +9,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "@headlessui/react": "^1.7.13",
+    "framer-motion": "^10.2.3",
     "next": "^13.2.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
